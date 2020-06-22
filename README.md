@@ -1,6 +1,6 @@
 # RES_NumberOfFloors
 
-###Description
+### Description
 This project calculates the number of possible combinations in a theoretical apartment block where there are 2 types of apartments.
 
 1-> Large appartments, these take up 2 floors
