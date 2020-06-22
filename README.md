@@ -20,8 +20,8 @@ An appartment block with 4 floors has 5 possible combinations:
 ## Example 2
 An appartment block with 5 floors has 8 possible combinations:
 
-1: sssss
-2: lsss  -> 6: lls -> 8: lsl
-3: slss  -> 7: sll
-4: ssls
-5: sssl
+1. sssss
+1. lsss  -> 6. lls -> 8. lsl
+1. slss  -> 7. sll
+1. ssls
+1. sssl
