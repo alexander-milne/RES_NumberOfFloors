@@ -42,9 +42,16 @@ namespace RessApp
 
         static void Main(string[] args)
         {
-            int numberOfFloors = 1399;
-            nOAS = new NoOfAssigmentsStore(numberOfFloors);
-            Console.WriteLine(NumberOfArrangements(numberOfFloors));
+            int numberOfFloors = 1475;
+            if (numberOfFloors > 1475)
+            {
+                Console.WriteLine("The program cannot calculate values for floors this large due to the byte size of double");
+            }
+            else
+            {
+                nOAS = new NoOfAssigmentsStore(numberOfFloors);
+                Console.WriteLine(NumberOfArrangements(numberOfFloors));
+            }
         }
     }
 }
