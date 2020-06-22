@@ -1,5 +1,6 @@
 # RES_NumberOfFloors
 
+###Description
 This project calculates the number of possible combinations in a theoretical apartment block where there are 2 types of apartments.
 
 1-> Large appartments, these take up 2 floors
@@ -7,11 +8,11 @@ This project calculates the number of possible combinations in a theoretical apa
 
 example-> An appartment block with 4 floors has 5 possible combinations:
 
-1: ssss
-2: lss
-3: sls
-4: ssl
-5: ll
+1. ssss
+1. lss
+1. sls
+1. ssl
+1. ll
 
 
 
