@@ -4,6 +4,7 @@
 This project calculates the number of possible combinations in a theoretical apartment block where there are 2 types of apartments.
 
 1-> Large appartments, these take up 2 floors
+
 2-> Small appartments, these take up 1 floor
 
 ## Example 1
