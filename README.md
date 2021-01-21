@@ -3,12 +3,12 @@
 ## Description
 This project calculates the number of possible combinations in a theoretical apartment block where there are 2 types of apartments.
 
-1-> Large appartments, these take up 2 floors
+1-> Large apartments, these take up 2 floors
 
-2-> Small appartments, these take up 1 floor
+2-> Small apartments, these take up 1 floor
 
 ### Example 1
-An appartment block with 4 floors has 5 possible combinations:
+An apartment block with 4 floors has 5 possible combinations:
 
 1. ssss
 1. lss
@@ -18,7 +18,7 @@ An appartment block with 4 floors has 5 possible combinations:
 
 
 ### Example 2
-An appartment block with 5 floors has 8 possible combinations:
+An apartment block with 5 floors has 8 possible combinations:
 
 1. sssss
 1. lsss  -> 6. lls -> 8. lsl
